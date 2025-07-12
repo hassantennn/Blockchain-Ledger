@@ -1,0 +1,4 @@
+flask==3.0.3
+ecdsa==0.19.1
+requests
+flask-cors
